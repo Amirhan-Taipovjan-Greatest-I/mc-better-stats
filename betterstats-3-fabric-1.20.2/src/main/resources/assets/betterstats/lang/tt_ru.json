@@ -6,6 +6,10 @@
 	"betterstats.translators.title": "Тәрҗемәчеләр",
 	"betterstats.translators.tutorial": "Түбәндәге тәрҗемәчеләр бүлеге CSV форматында бар. Өтерне (,) куегыз гына һәм Сезнең уникаль Github-ның кулланучы исеме язагыз. Үрнәк: 'TheCSDev, SomeOtherUser, AndSoOn'.",
 	"betterstats.translators": "Amirhan-Taipovjan-Greatest-I",
+
+	"commands.statistics.edit.output": "%2$s уенчы өчен %1$s статистикасы үзгәртелде.",
+	"commands.statistics.clear.kick": "Сезнең статистика чистарылды, шуңа күрә Сезгә өзелергә һәм яңадан кушылырга таләп ителә.",
+	"commands.statistics.clear.output": "%s уенчының статистика чистарылды.",
 	
 	"betterstats.api.client.gui.stats.panel.menubarpanel.menu_file": "Файл",
 	"betterstats.api.client.gui.stats.panel.menubarpanel.menu_file.new": "Яңа",
@@ -13,7 +17,7 @@
 	"betterstats.api.client.gui.stats.panel.menubarpanel.menu_file.save": "Саклау",
 	"betterstats.api.client.gui.stats.panel.menubarpanel.menu_file.save_as": "Саклау рәвеше",
 	"betterstats.api.client.gui.stats.panel.menubarpanel.menu_view": "Карау",
-	"betterstats.api.client.gui.stats.panel.menubarpanel.menu_view.vanilla_stats": "Ванила статистикасын күрсәтү",
+	"betterstats.api.client.gui.stats.panel.menubarpanel.menu_view.vanilla_stats": "Ваниль статистиканы күрсәтү",
 	"betterstats.api.client.gui.stats.panel.menubarpanel.menu_about": "Мод турында",
 	"betterstats.api.client.gui.stats.panel.menubarpanel.menu_about.source": "Чыганак",
 	"betterstats.api.client.gui.stats.panel.menubarpanel.menu_about.curseforge": "CurseForge",
@@ -30,11 +34,12 @@
 	"betterstats.api.client.gui.stats.widget.mobstatwidget.kills": "Үтерүләр саны",
 	"betterstats.api.client.gui.stats.widget.mobstatwidget.deaths": "Үлемнәр саны",
 	"betterstats.api.client.gui.stats.widget.playerbadgestatwidget.obtained": "Табылган",
+	"betterstats.api.client.gui.stats.widget.generalstatwidget.value": "Кыйммәт",
 	
 	"betterstats.client.gui.stats.panel.statstabpanel.no_stats_yet": "Күрсәтү өчен статистика юк әле...",
 	
 	"betterstats.api.client.gui.screen.betterstatsconfigscreen.debug_mode": "Төзәтү шарты",
-	"betterstats.api.client.gui.screen.betterstatsconfigscreen.gui_mob_follow_cursor": "Интерфейстагы асыллар күрсәткечне күзәтә",
+	"betterstats.api.client.gui.screen.betterstatsconfigscreen.gui_mob_follow_cursor": "Асыллар күрсәткечне күзәтә",
 	
 	"betterstats.api.client.registry.bsclientplayerbadges.dedication.title": "Бирелгәнлек",
 	"betterstats.api.client.registry.bsclientplayerbadges.dedication.description": "Сез дөрес бирелгәнлекне күрсәттегез! Сез бу дөньяда кимендә 12 көн (288 сәгать) буена уйнадыгыз.",
